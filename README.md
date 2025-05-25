@@ -22,3 +22,7 @@ Ofrezco soluciones avanzadas utilizando inteligencia artificial para el reconoci
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fedgo29&theme=dark)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedgo29)](https://github.com/fedgo29/github-readme-stats)
+
+### Stack
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
