@@ -35,12 +35,6 @@ Me especializo en tecnologías modernas como Python (Flask, Django), JavaScript 
 
 Ofrezco soluciones avanzadas utilizando inteligencia artificial para el reconocimiento de patrones en imágenes y automatización de procesos. Con experiencia en tecnologías como YOLO, OpenCV, etc, y modelos de lenguaje como GPT, Llama2, Deepseek, etc, transformo desafíos tecnológicos en soluciones innovadoras que optimizan la eficiencia de tus proyectos.
 
-### Github Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fedgo29&theme=dark)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedgo29)](https://github.com/fedgo29/github-readme-stats)
-
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
