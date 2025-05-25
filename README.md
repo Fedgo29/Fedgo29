@@ -60,6 +60,7 @@ Ofrezco soluciones avanzadas utilizando inteligencia artificial para el reconoci
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vuejs3](https://img.shields.io/badge/Vue.js_3-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Sprint Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 #### 📚 Libraries
 
