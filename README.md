@@ -140,7 +140,7 @@ Ofrezco soluciones avanzadas utilizando inteligencia artificial para el reconoci
 <a href="https://www.linkedin.com/in/fedgo29/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<h5 align="center">Let's connect!</h5>
+<h2 align="center">Let's connect!</h2>
 
 ---
 
