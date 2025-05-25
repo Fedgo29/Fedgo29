@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/d6c9af2c-d9f2-4f18-b655-6af7f2ee1386)
 
 # Hey, I'm Edgar!
 
